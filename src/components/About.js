@@ -43,7 +43,7 @@ export default function About(props) {
               aria-expanded="true"
               aria-controls="collapseOne"
             >
-              Accordion Item #1
+              <strong> Accordion Item #1</strong>
             </button>
           </h2>
           <div
@@ -75,7 +75,7 @@ export default function About(props) {
               aria-expanded="false"
               aria-controls="collapseTwo"
             >
-              Accordion Item #2
+              <strong> Accordion Item #2</strong>
             </button>
           </h2>
           <div
@@ -107,7 +107,7 @@ export default function About(props) {
               aria-expanded="false"
               aria-controls="collapseThree"
             >
-              Accordion Item #3
+              <strong>Accordion Item #3</strong>
             </button>
           </h2>
           <div
